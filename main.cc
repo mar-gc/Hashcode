@@ -4,7 +4,43 @@
 #include <algorithm>
 
 using namespace std;
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // pre: a i b pizzes valides d'un vector de pizzes
 // post: retorna cert si a te més ingredients que b, o bé si els ingredients de a
 // han d'anar abans lexicograficament els de b
